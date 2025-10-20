@@ -39,3 +39,9 @@ Add watermark position selection (top-left, center, bottom-right, etc.)
 Add custom font for text
 Export app as an .exe file for Windows users
 Include drag-and-drop upload
+
+Author
+Vishwas SV
+
+Don’t forget to star this repo if you found it helpful!
+#Python #Tkinter #Pillow #ImageProcessing #Automation #GUI #OpenSource
